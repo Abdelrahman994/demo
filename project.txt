@@ -5,3 +5,4 @@ continue on master
 #calculator
 fun (a , b ) = a + b
 fun (a , b ) = a - b
+line added form github directory
