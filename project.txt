@@ -1,3 +1,4 @@
 first line in master
 this is the first line in feature
 and this is the second line in feature
+continue on master
