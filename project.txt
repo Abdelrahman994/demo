@@ -6,3 +6,4 @@ continue on master
 fun (a , b ) = a + b
 fun (a , b ) = a - b
 line added form github directory
+second line added from github
